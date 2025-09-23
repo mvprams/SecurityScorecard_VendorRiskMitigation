@@ -3,3 +3,27 @@
 ################################################################################
 
 /.vs/SecurityScoreCard_VendorRiskMitigation
+/bin/Debug/net8.0-windows
+/obj/Debug/net8.0-windows/refint
+/obj/Debug/net8.0-windows/App.g.cs
+/obj/Debug/net8.0-windows/apphost.exe
+/obj/Debug/net8.0-windows/MainWindow.baml
+/obj/Debug/net8.0-windows/MainWindow.g.cs
+/obj/Debug/net8.0-windows/MainWindow.g.i.cs
+/obj/Debug/net8.0-windows/ref/SecurityScoreCard_VendorRiskMitigation.dll
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.AssemblyInfo.cs
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.AssemblyInfoInputs.cache
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.assets.cache
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.csproj.CoreCompileInputs.cache
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.csproj.FileListAbsolute.txt
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.dll
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.g.resources
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.genruntimeconfig.cache
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.pdb
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation.sourcelink.json
+/obj/Debug/net8.0-windows/SecurityScoreCard_VendorRiskMitigation_MarkupCompile.cache
+/obj/project.assets.json
+/obj/project.nuget.cache
+/obj/SecurityScoreCard_VendorRiskMitigation.csproj.nuget.dgspec.json
+/obj/SecurityScoreCard_VendorRiskMitigation.csproj.nuget.g.props
+/obj/SecurityScoreCard_VendorRiskMitigation.csproj.nuget.g.targets
